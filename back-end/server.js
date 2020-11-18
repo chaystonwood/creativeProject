@@ -119,4 +119,4 @@ app.put('/api/posts/:id', async (req, res) => {
   }
 });
 
-app.listen(3001, () => console.log('Server listening on port 3001!'));
+app.listen(3003, () => console.log('Server listening on port 3003!'));

@@ -176,7 +176,7 @@ h1 {
 .textarea {
   margin-bottom: 10px;
   width: 800px;
-  height: 900px;
+  height: 400px;
 }
 
 /* Form */
