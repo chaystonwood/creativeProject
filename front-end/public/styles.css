@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Footer Styles */
+.footer {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border-top: 1px solid black;
+  margin-top: 4em;
+}
+
+.avatar {
+  display: flex;
+  min-width: 3.5em;
+  min-height: 3.5em;
+  max-width: 3.5em;
+  max-height: 3.5em;
+  margin: 1em;
+  border-radius: 2em;
+}
+
+#footer-content {
+  padding: 0;
+  margin: 0;
+}
